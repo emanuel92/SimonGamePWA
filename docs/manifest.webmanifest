@@ -1,0 +1,22 @@
+{
+    "name": "Simon Game PWA",
+    "short_name": "Simon PWA",
+    "display": "standalone",
+    "start_url": ".",
+    "scope": "/simonGamePWA/",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "Simple Simon Game programmed as PWA",
+    "icons": [
+        {
+            "src": "icon512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }, {
+            "src": "icon16.png",
+            "sizes": "16x16",
+            "type": "image/png",
+            "purpose": "badge"
+        }
+    ]
+}
